@@ -1,0 +1,13 @@
+The uWSGI project
+
+For official documentation check: https://uwsgi-docs.readthedocs.org/en/latest/
+
+For commercial support check: http://unbit.com/
+
+--HOW TO BUILD--
+run:
+	python3 ./setup.py build
+
+--HOW TO INSTALL--
+run:
+	python3 ./setup.py install
