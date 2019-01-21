@@ -70,7 +70,7 @@ if test ! -n "$*"; then
 fi
 
 makexp=`dirname $0`/makexp_aix
-test -x "${makexp}" || makexp="/home/adream/proj/FuturePIL/python/Python-3.7.2rc1/Modules/makexp_aix"
+test -x "${makexp}" || makexp="/home/adream/proj/FuturePIL/web-fpil-tools/Python-3.7.2rc1/Modules/makexp_aix"
 
 # Check for existence of compiler.
 CC=$1; shift
